@@ -1,37 +1,7 @@
-# ‘—¿ˆê——
-- Daisuke Nishinofs Presentations on SlideShare  
+# è³‡æ–™ä¸€è¦§
+- FrontPage - Open æ£Ÿæ¢ Wiki  
+https://opentouryo.osscons.jp/index.php?FrontPage
+- Openæ£Ÿæ¢ã«ã¤ã„ã¦ - OSSã‚³ãƒ³ã‚½ãƒ¼ã‚·ã‚¢ãƒ   
+https://www.osscons.jp/dotNetDevelopmentInfrastructure/OpenTouryo/
+- Daisuke Nishinoâ€™s Presentations on SlideShare  
 https://www.slideshare.net/daisukenishino/presentations
-
-### ŠT—vEĞ‰î
-- Open“—ÀŠT—và–¾ v02-00  
-http://www.slideshare.net/daisukenishino/open-01-50-40474003
-
-- Open“—À‹@”\Ğ‰î v02-00  
-http://www.slideshare.net/daisukenishino/open-0150
-
-- Open“—À v02-00 ƒRƒ“ƒZƒvƒg  
-https://www.slideshare.net/daisukenishino/open-v02-00
-
-### ƒZƒ~ƒi[“™
-- ‹”NƒT[ƒrƒXŠJ”­‚ÅƒRƒP‚½‚ñ‚Å‚·‚ªA”÷–­‚Éƒsƒ{ƒbƒg‚µ‚½˜bB  
-https://www.slideshare.net/daisukenishino/ss-79384446
-
-- OSS‚É‚æ‚éƒ}ƒbƒVƒ…ƒAƒbƒv&ƒT[ƒrƒX‰»‚ğÀŒ»‚·‚éOpen“—ÀƒT[ƒrƒXŠJ”­Šî”Õ  
-https://www.slideshare.net/daisukenishino/ossopen
-
-- OSC2018 hiroshima session slide by OSSC  
-https://www.slideshare.net/daisukenishino/osc2018-hiroshima-session-slide-by-ossc
-
-### ‚»‚Ì‘¼
-- Open“—ÀƒvƒƒWƒFƒNƒg‚Ìæ‚è‘g‚İ  
-https://www.slideshare.net/daisukenishino/open-99481611
-
-- Open“—ÀƒvƒƒWƒFƒNƒg‚Ì”wŒi  
-https://www.slideshare.net/daisukenishino/open-105528529
-
-- PMP‹“_‚ÅŒ©‚éƒGƒ“ƒ^[ƒvƒ‰ƒCƒYŒü‚¯  
-ƒVƒXƒeƒ€ŠJ”­Šî”Õ‚ÌŠJ”­ƒvƒƒWƒFƒNƒg‚Ìƒ}ƒlƒWƒƒ“ƒg‚É‚Â‚¢‚ÄB  
-https://www.slideshare.net/daisukenishino/pmp-109210280
-
-- Open “—À ƒvƒƒWƒFƒNƒg‚ÌAÈ—ÍEÈlE­l‰»‚É‚æ‚éAƒRƒXƒgíŒ¸‚Ì‘S—eB  
-https://www.slideshare.net/daisukenishino/open-111086067
